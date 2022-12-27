@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhantPatra
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Node.js,Mongodb.
+- 🌱 I’m currently working with Node.js,Mongodb.
 
 
 <!---
